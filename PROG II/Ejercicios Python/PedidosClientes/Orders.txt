@@ -1,1 +1,0 @@
-[{"products": [{"id": "1d083612-7eb6-4eaa-a3c7-4d7b47489070", "name": "something"}], "transportId": 1, "shipId": 1}, {"products": [{"id": "ef420827-77ac-4be9-a0a3-c6b28cde92fc", "name": "another"}], "transportId": 2, "shipId": 2}]
